@@ -12,6 +12,10 @@ View my **[Website](https://joravarsinghing.github.io/portfolio)** for more glim
 
 ## 🚀 Featured Public Projects
 
+### **🛠️ InterfaceForge — Image-to-3D CAD Generation Tool**
+React · FastAPI · OpenCV · Zoo Design API · KCL  
+An AI-assisted engineering tool that turns two calibrated profile images into manufacturable 3D geometry, helping makers, DIY enthusiasts, and non-engineers create custom-fit parts without the steep learning curve of traditional CAD software.
+
 ### **📱 SelfMint — Gamified To‑Do & Rewards App**
 Kotlin · Jetpack Compose · Room · DataStore  
 A productivity system where tasks earn currency, rewards cost currency, and your dashboard visualizes your behavioral economy.
