@@ -16,11 +16,15 @@ View my **[Website](https://joravarsinghing.github.io/portfolio)** for more glim
 React · FastAPI · OpenCV · Zoo Design API · KCL  
 An AI-assisted engineering tool that turns two calibrated profile images into manufacturable 3D geometry, helping makers, DIY enthusiasts, and non-engineers create custom-fit parts without the steep learning curve of traditional CAD software.
 
+### **📱 Jvy Wallet — Privacy-First Personal Finance Manager**
+Kotlin · Jetpack Compose · Room · DataStore  
+A local-first Android money management app designed for users who want complete ownership of their financial data. Jvy Wallet combines expense tracking, budgeting, savings goals, and cash flow forecasting in a privacy-focused experience, helping users understand where their money is going and what they can safely spend.
+
 ### **📱 SelfMint — Gamified To‑Do & Rewards App**
 Kotlin · Jetpack Compose · Room · DataStore  
 A productivity system where tasks earn currency, rewards cost currency, and your dashboard visualizes your behavioral economy.
 
-### **📘 PromptBooks — AI Chat‑Based Bookkeeping POC**
+### **📱 PromptBooks — AI Chat‑Based Bookkeeping POC**
 Kotlin · Retrofit · Room · OpenRouter API  
 A natural‑language bookkeeping prototype where AI interprets user input while the app owns all calculations, storage, and guardrails.
 
